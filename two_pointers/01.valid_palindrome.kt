@@ -3,7 +3,7 @@ package two_pointers
 
 /**
  * @author Houwen Lie (houwenlie98@gmail.com)
- * @version ValidPalindrome, v 0.1 Wed 7/3/2024 7:40 PM by Houwen Lie
+ * @version 01.valid_palindrome, v 0.1 Wed 7/3/2024 7:40 PM by Houwen Lie
  * @problem Valid Palindrome - https://leetcode.com/problems/valid-palindrome
  */
 object ValidPalindrome {
